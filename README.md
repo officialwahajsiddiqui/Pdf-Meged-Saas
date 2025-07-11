@@ -40,7 +40,7 @@ A modern, full-stack SaaS application for merging multiple PDF files with a beau
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/officialwahajsiddiqui/Pdf-Meged.git
    cd pdf-merger-saas
    ```
 
